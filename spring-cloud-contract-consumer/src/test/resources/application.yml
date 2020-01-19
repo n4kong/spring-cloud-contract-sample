@@ -1,0 +1,5 @@
+endpoint: http://localhost
+stubrunner:
+  ids:  'com.baeldung.spring.cloud:spring-cloud-contract-producer:+:stubs:8090'
+  stubs-mode: local
+#stubrunner.repositoryRoot=https://repo.spring.io/libs-snapshot
